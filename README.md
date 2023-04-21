@@ -1,5 +1,5 @@
-# Classical worm algorithm for several model #
-This is a tutorial for classical worm algorithm
+# Classical worm algorithm for several models #
+This is a demo code collection for classical worm algorithm
 
 --------------------------------------
 ## Ising model ##
@@ -13,6 +13,17 @@ almost done
 to add
 
 
+## O(n) model ##
+
+to add
+
+
+--------------------------------------
+## J-current model ##
+to add
+
+
 --------------------------------------
 ## phi^4 model ##
 to add
+

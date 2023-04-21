@@ -16,7 +16,6 @@ SUBROUTINE sample_sequence
 		call markov(inw)
 		totalE = cal_energy()
 		write(1,'(ES16.8)') totalE*wv
-		if( mod(i,10000)==0 )  call normalize_spin
 	end do
 	close(1)
 	write(*,*) "Samples for autocorrelation function is done"

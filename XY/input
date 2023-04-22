@@ -1,0 +1,16 @@
+0            !r_cnf_stat
+0   1        !PT
+2            !D
+16           !Lx
+16           !Ly
+1            !Lz
+1            !subl
+1            !nnr
+0.3410       !Jcp
+1.0000       !beta
+10           !Maxcur
+1            !nw
+128          !NBlck
+100000000    !Ntoss
+10000        !Nsamp
+3960437

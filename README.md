@@ -10,7 +10,7 @@ almost done
 --------------------------------------
 ## XY model ##
 
-to add
+almost done
 
 
 ## O(n) model ##
